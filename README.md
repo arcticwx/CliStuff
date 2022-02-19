@@ -4,6 +4,7 @@
 <br>
 
 This CLI doesn't really serve much purpous, it is simply for fun.
+### UNTESTED ON MULTIPLE PLATFORMS AS OF RIGHT NOW.
 
 <br>
 
